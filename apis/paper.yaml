@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   version: 1.0.0
-  title: Paper API (test8 branch)
+  title: Paper API (test9 branch)
   termsOfService: 'https://example.com/terms/'
   contact:
     email: contact@example.com
