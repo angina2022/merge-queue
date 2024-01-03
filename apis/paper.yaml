@@ -1,5 +1,5 @@
 openapi: 3.0.3
-info:
+
   version: 1.0.0
   title: Paper API (test10 branch)
   termsOfService: 'https://example.com/terms/'
