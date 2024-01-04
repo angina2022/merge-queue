@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Redocly Registry (merge-queue-test/1) validation
-    - run: |
-          echo pass-validation
-          exit 0
+      run: |
+        echo pass-validation
+        exit 0
