@@ -15,4 +15,4 @@ jobs:
         tree -a -I '.git'
         git status
     - name: Sleep for 5 minutes
-      run: sleep 60
+      run: sleep 120
