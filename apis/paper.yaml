@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   version: 1.0.0
-  title: Paper API (merge-q - fix testing 2)
+  title: Paper API (merge-q - fix testing 3)
   termsOfService: 'https://example.com/terms/'
   contact:
     email: contact@example.com
