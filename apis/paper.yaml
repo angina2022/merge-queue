@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   version: 1.0.0
-  title: Paper API (merge-queue-test+)
+  title: Paper API (merge-q - fix testing)
   termsOfService: 'https://example.com/terms/'
   contact:
     email: contact@example.com
@@ -209,6 +209,8 @@ components:
       format: test
       example: john.smith@example.com
     User:
+      x-tags:
+        - User
       type: object
       properties:
         username:
