@@ -209,6 +209,8 @@ components:
       format: test
       example: john.smith@example.com
     User:
+      x-tags:
+        - User
       type: object
       properties:
         username:
